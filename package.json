@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@bjorn3/browser_wasi_shim": "^0.3.0",
+    "@ruby/head-wasm-wasi": "2.5.1-2024-05-03-a"
+  }
+}
